@@ -1,0 +1,8 @@
+[
+  "tests.py::test_columns_exist",
+  "tests.py::test_file_exists",
+  "tests.py::test_values_exist[Bethann Schraub-$102.00]",
+  "tests.py::test_values_exist[Eryn Vilar-$102.00]",
+  "tests.py::test_values_exist[Janay Priolo-$57.00]",
+  "tests.py::test_values_exist[Lizabeth Letsche-$237.00]"
+]

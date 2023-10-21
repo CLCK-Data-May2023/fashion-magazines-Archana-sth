@@ -1,4 +1,4 @@
---add the code here.
+
 --PRINTF() function to format the total_amount_due as currency, ensuring it displays two decimal places and $.
 select customers.customer_name as Customer, 
  PRINTF("$%.2f",sum(subscriptions.price_per_month * subscriptions.subscription_length)) 
